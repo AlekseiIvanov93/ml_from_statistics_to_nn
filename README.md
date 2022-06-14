@@ -1,8 +1,8 @@
 # Специализация "Машинное обучение: от статистики до нейросетей"
-Данный репозиторий содержит lдомашние задания по специализации от ВШЭ на Coursera ["Машинное обучение: от статистики до нейросетей"](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)
+Данный репозиторий содержит lдомашние задания по специализации от ВШЭ на Coursera
 
 Специализация состоит из 5 курсов:
-1. [Основы машинного обучения](https://github.com/AlekseiIvanov93/courses/blob/master/ML-from-Statistics-to-Neural-Networks/02.machine_learning_foundations/README.md)
+1. [Основы машинного обучения](https://github.com/AlekseiIvanov93/ml_from_statistics_to_nn/tree/master/01.machine_learning_foundations)
 2. [Продвинутые методы машинного обучения]()
 3. [Сбор и анализ данных в Python]()
 4. [Математическая статистика и А/В тестирование]()
