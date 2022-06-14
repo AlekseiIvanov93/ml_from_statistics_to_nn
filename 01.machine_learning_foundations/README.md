@@ -3,6 +3,7 @@
 
 [Сертификат](https://github.com/AlekseiIvanov93/ml_from_statistics_to_nn/blob/master/01.machine_learning_foundations/certificate.pdf)
 
+[Файлы для реализацияя кода](https://drive.google.com/drive/folders/1H9EfgGV8g7qMAt1dTml6-9fXfwYoS5FX?usp=sharing)
 
 Репозиторий содержит прорешанные домашние задания. Файлы пронумерованы в порядке выдачи заданий.
 
