@@ -1,4 +1,4 @@
-# Курс 1. [Продвинутые методы машинного обучения](https://www.coursera.org/learn/advanced-machine-learning-methods)
+# Курс 2. [Продвинутые методы машинного обучения](https://www.coursera.org/learn/advanced-machine-learning-methods)
 
 
 [Сертификат](https://github.com/AlekseiIvanov93/ml_from_statistics_to_nn/blob/master/02.advanced_machine_learning_methods/certificate.pdf)
