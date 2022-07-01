@@ -2,7 +2,7 @@
 
 [Github курса](https://github.com/FUlyankin/matstat_coursera)
 
-[Сертификат]https://github.com/AlekseiIvanov93/ml_from_statistics_to_nn/blob/master/03.data_collection_and_analysis/certificate.pdf)
+[Сертификат](https://github.com/AlekseiIvanov93/ml_from_statistics_to_nn/blob/master/03.data_collection_and_analysis/certificate.pdf)
 
 [Файлы для реализацияя кода](https://drive.google.com/drive/folders/10fWTuW-MJrM71hKCsdBZcEU6iUF-8zLS?usp=sharing)
 
